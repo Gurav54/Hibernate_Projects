@@ -20,3 +20,14 @@ in this projcet i have uploaded multiple images which will directly saved in Dat
   this project includes CRUD operations in the Hibernate Framework, this project shows what I learned till now and what I have implemented about Hibernate
 
 ==============================================
+5) project Name = Hibernate_All_Criteria_RestrictionClass
+ This project contains the inbuild methods of CRITERIA interface -> Restrictions Class to manipulate the data 
+methods - 
+gt (greater than)
+ lt (less than)
+eq(equals to)
+Between
+Like
+IN
+
+======================================================
