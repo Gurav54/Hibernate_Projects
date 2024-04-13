@@ -1,6 +1,6 @@
 # Hibernate Projects
 
-This repository contains various Hibernate projects that I've developed while learning and implementing different concepts.
+This repository contains various Hibernate projects that I've developed while learning and implementing different concepts  basic to advanced .
 
 ## Project 1: HibernateProject_With_Img
 
