@@ -1,4 +1,4 @@
-# Hibernate Projects
+# Hibernate Projects (All project having CRUD opretions)
 
 This repository contains various Hibernate projects that I've developed while learning and implementing different concepts from  basic to advanced . hibernate
 
