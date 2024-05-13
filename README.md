@@ -24,7 +24,7 @@ Description: This project demonstrates the usage of Criteria interface's built-i
 
 ## Project 6: Hibernate_OneToOne_MappingDB
 
-Description: This project focuses on implementing One-to-One relationships between two tables in a database. It consists of two entities: Questions and Answers, establishing a relationship where each question corresponds to only one answer. Advanced annotations like @OneToOne are employed within the Hibernate framework to achieve this relationship.
+Description: This project focuses on implementing One-to-One relationships between two tables in a database. It consists of two entities: Questions and Answers, establishing a relationship where each question corresponds to only one answer. Advanced annotations like @OneToOne are employed within the Hibernate framework to achieve this relationship.how we can connect our application to Db is best example which i learned is this.
 
 
 
